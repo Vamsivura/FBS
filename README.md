@@ -53,5 +53,6 @@
 Follow these steps carefully to ensure the successful setup of Cloud SQL for your Flight Booking System.
 
 ### To run the Application:
+
 - Right-click on the project in STS.
 - Choose "Run As" > "springboot application" option.
