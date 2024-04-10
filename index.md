@@ -2,7 +2,7 @@
 layout: default
 title: About Flight Booking System
 ---
-# Online Doctor Appointment
+# Flight Booking System
 
 ## Project Overview
 The Flight Reservation System is a web-based application designed to facilitate the booking and management of flight reservations. The system will be built using Spring Boot for the backend, Hibernate for data persistence, and Google Cloud SQL for real-time data synchronization and user authentication.
